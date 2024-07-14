@@ -387,7 +387,7 @@ function DisplayDtail() {
             cartona += `<a href="${DataByName[i].strSource}" target="_blank" class="source">Source</a>`;
         }
         if (DataByName[i].strYoutube !== null) {
-            cartona += `<a href="${DataByName[i].strYoutube}" target="_blank" class="youtoub">Youtoub</a>`;
+            cartona += `<a href="${DataByName[i].strYoutube}" target="_blank" class="youtoub">Youtube</a>`;
         }
 
         cartona += `
